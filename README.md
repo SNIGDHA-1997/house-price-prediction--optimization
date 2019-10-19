@@ -1,2 +1,2 @@
 # house-price-prediction--optimization
-This project RandomForests for predicting house prices
+This project uses RandomForests for predicting house prices
